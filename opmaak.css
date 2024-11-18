@@ -1,1 +1,31 @@
+ul( 
+list-syle-type: none;
+Margin:0;
+padding:0;
+Oferflow:hidden;
+Blackground-color:#333;
+)
+li ( 
+float:left;
+)
+Li a(
+display: block;
+color: withe;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+) 
+/* Change the link color to #111(black) on hover*/
+Li a:hover(
+blackground-color:#111;
+)
+.page-image2{
+  width: 50%; height: auto;
+}
+.page-image3{
+  width: 50%; height: auto;
+}
+.page-image{
+  width: 50%; height: auto;
+}
 
